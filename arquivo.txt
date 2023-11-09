@@ -1,0 +1,4 @@
+Olá, mundo!
+Este é um arquivo de texto.
+Aqui temos três linhas.
+iteris domina.
